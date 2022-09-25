@@ -12,5 +12,3 @@ GROUP MEMBERS
 121435 Njeru Boaz Muthomi
 
 118461 Sharon Ndichu
-
-120352 Steven Mburu Githinji
