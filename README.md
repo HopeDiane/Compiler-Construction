@@ -13,4 +13,6 @@ GROUP MEMBERS
 
 118461 Sharon Ndichu
 
+120352 Steven Githinji
+
 #The Compiler Project is a simple parse tree generator code in C.
